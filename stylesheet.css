@@ -1,0 +1,12 @@
+table, th, td {
+   border: 3px double grey;
+}
+a {
+  color:#FF3300; font-size: 150%; }
+
+  a:hover {
+      background-color: orange ;
+  }
+  a:hover {
+      color: grey;
+  }
