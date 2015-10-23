@@ -2,7 +2,7 @@ table, th, td {
    border: 3px double grey;
 }
 a {
-  color:#FF3300; font-size: 150%; }
+  color:#00FF00; font-size: 150%; }
 
   a:hover {
       background-color: blue ;
