@@ -5,10 +5,10 @@ a {
   color:#FF3300; font-size: 150%; }
 
   a:hover {
-      background-color: orange ;
+      background-color: blue ;
   }
   a:hover {
-      color: grey;
+      color: white;
   }
 
 body {
