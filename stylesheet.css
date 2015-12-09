@@ -15,6 +15,6 @@ body {
   background-image:url(http://www.planwallpaper.com/static/images/6909249-black-hd-background.jpg);
 }
 
-h1 { font-family: 'Indie Flower', cursive; font-size: 45px}
+h1 { font-family: 'Indie Flower', cursive; font-size: 45px; color:#3399ff}
 
-p{ font-family: 'Play', sans-serif; font-size: 30px; color: #3399ff}
+p{ font-family: 'Play', sans-serif; font-size: 30px; color: white}
