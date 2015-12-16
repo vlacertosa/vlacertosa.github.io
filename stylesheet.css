@@ -18,3 +18,9 @@ body {
 h1 { font-family: 'Indie Flower', cursive; font-size: 45px; color:#1a75ff}
 
 p{ font-family: 'Play', sans-serif; font-size: 30px; color: white}
+
+a:link{
+text-decoration: none;
+
+
+}
