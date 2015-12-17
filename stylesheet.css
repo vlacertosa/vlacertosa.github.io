@@ -28,6 +28,6 @@ text-decoration: none;
   padding: 0;
   position: absolute;
 }
-
+ul{ list-style-type: none;}
 
 }
