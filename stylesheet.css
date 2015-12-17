@@ -4,6 +4,10 @@ table, th, td {
 a {
   color:#00FF00; font-size: 150%; }
 
+
+  li{
+    color:#00FF00; font-size: 150%; }
+
   a:hover {
       background-color: blue ;
   }
