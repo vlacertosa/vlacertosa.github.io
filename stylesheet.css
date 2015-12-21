@@ -1,19 +1,25 @@
-table, th, td {
-   border: 3px double grey;
+
+a:visited{
+  text-decoration: none;
+  color:white;
+
 }
-a {
-  color:#00FF00; font-size: 150%; }
 
+ a:link{
+ text-decoration: none;
+ color:white;
 
-  nav text{
-    color:#00FF00; font-size: 150%; }
+ }
 
   a:hover {
       background-color: blue ;
+      color:white;
   }
-  a:hover {
-      color: white;
+
+  a:active{
+    color:red;
   }
+
 
 body {
   background-image:url(http://hdwallpapers-download.com/wp-content/uploads/2014/10/Grey-Wallpaper-02.jpg);
@@ -23,13 +29,19 @@ h1 { font-family: 'Indie Flower', cursive; font-size: 45px; color:#1a75ff}
 
 p{ font-family: 'Play', sans-serif; font-size: 30px; color: white}
 
-a:link{
-text-decoration: none;
-}
+
 
 .navbar {
-
-  display: inline-block;
+  display: block;
   padding: 0;
   position: absolute;
+}
+.navbar li{
+  display: inline;
+  float: left;
+  padding: 0;
+  width: 11em;
+  position: relative;
+  list-style-type: none;
+  font-size: 1.5em;
 }
